@@ -8,5 +8,5 @@ Welcome to the Urban Forestry R Package (`UFoR`)! This package has been meticulo
 
 Explore our comprehensive documentation to learn how to use `UFoR`, understand its functions, contribute to its development, and get information about its license.
 
-Note that the package is still early in development and this documentation is not exhaustive, complete, or even necessarily correct. Please see [contribute](contribute.md) if you would like to help out.
+Note that the package is still early in development and this documentation is not exhaustive, complete, or even necessarily correct. Please see [contribute](5-contribute.md) if you would like to help out.
 ```
