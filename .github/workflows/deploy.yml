@@ -38,6 +38,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
+      - name: Install
+        run: npm install --frozen-lockfile
       - name: Build
         run: npm run build
       - name: Setup Pages
