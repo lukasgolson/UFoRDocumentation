@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://lukasdragon.github.io',
+  url: 'https://lukasgolson.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/UFoRDocumentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'lukasdragon', // Usually your GitHub org/user name.
+  organizationName: 'lukasgolson', // Usually your GitHub org/user name.
   projectName: 'UFoRDocumentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
