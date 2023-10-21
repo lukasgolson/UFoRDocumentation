@@ -7,7 +7,7 @@ Installing `UFoR` is a breeze. It can be installed directly from GitHub using th
 
 ```R
 install.packages("devtools")
-devtools::install_github("lukasdragon/UFoR")
+devtools::install_github("lukasgolson/UFoR")
 ```
 After installation, you can move on to getting started with `UFoR`.
 ```
